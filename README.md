@@ -106,6 +106,19 @@ This section will detail our robot's mechanical assembly steps, including:
 ## 💰 Budget Overview
 
 We’ve documented all hardware costs to ensure transparency and reproducibility. The breakdown includes electronics, structural parts, and 3D printing material.
+
+| Component                       | Estimated Price (USD) | Notes                                              |
+|--------------------------------|----------------------|----------------------------------------------------|
+| Jetson Nano Developer Kit       | $89.00               | Entry-level AI computing platform                   |
+| 8MP IMX219 Camera Module        | $21.20               | Compatible with Jetson Nano for vision tasks        |
+| High Quality Non-Skid Tire      | $5.00                | Durable tires suitable for racing                    |
+| Metal Gear Steering Servo       | $10.00               | Precision steering control                            |
+| Dual High Power Metal Motor     | $15.00               | Provides necessary torque for movement               |
+| Battery Holder                 | $3.00                | Holds the power source securely                       |
+| Dual-Mode Wireless NIC          | $10.00               | Enables wireless communication                        |
+| Miscellaneous Components        | $20.00               | Includes wires, connectors, and other small parts   |
+| **Total Estimated Cost**        | **$173.20**          |                                                    |
+
 ---
 ## 🛑 Obstacle Management
 
