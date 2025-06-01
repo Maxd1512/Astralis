@@ -121,7 +121,7 @@ The logic adjusts the robot’s path in real time based on the color signals det
 
 
 ## How to Build it for Yourself
-Simply go into **[src/code.ipnyb](src/code.ipnyb)** then upload it to your jetson's jupyter lab and follow the instructions inside of each cell. 
+Simply go into **[src/code.ipynb](src/code.ipynb)** then upload it to your jetson's jupyter lab and follow the instructions inside of each cell. 
 
 ## Model Used
 ![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)
