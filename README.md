@@ -16,7 +16,8 @@ component details, and documentation of the engineering process behind our robot
 - 🛠️ Sensors & Power System  
 - 💰 Budget Overview  
 - 🛑 Obstacle Detection Strategy  
-- 📦 Project Structure  
+- 📦 Project Structure
+- 🦅 Showcase
 ---
 👥 Meet the Team
 
@@ -121,3 +122,7 @@ The logic adjusts the robot’s path in real time based on the color signals det
 # Model Used
 ![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)
 [![JetRacer AI Robot Car Kit](https://sketchfab.com/static/thumbnail.png)](https://sketchfab.com/3d-models/jetracer-ai-robot-car-kit-for-nvidia-jetson-a6e25e470de1425281f17aba1a721f7d)
+
+# Showcase
+Watch our robot in action:  
+**[resources/media/showcase.mp4](resources/medila/showcase.mp4)**
