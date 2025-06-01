@@ -18,6 +18,7 @@ component details, and documentation of the engineering process behind our robot
 - 🛑 Obstacle Detection Strategy  
 - 📦 Project Structure
 - 🦅 Showcase
+- 🙏 How to Build it for Yourself
 ---
 👥 Meet the Team
 
@@ -119,6 +120,8 @@ The logic adjusts the robot’s path in real time based on the color signals det
 
 
 
+## How to Build it for Yourself
+Simply go into **[src/code.ipnyb](src/code.ipnyb)** then upload it to your jetson's jupyter lab
 # Model Used
 ![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)
 [![JetRacer AI Robot Car Kit](https://sketchfab.com/static/thumbnail.png)](https://sketchfab.com/3d-models/jetracer-ai-robot-car-kit-for-nvidia-jetson-a6e25e470de1425281f17aba1a721f7d)
