@@ -66,7 +66,7 @@ The WRO 2025 Future Engineers challenge requires us to develop an autonomous veh
 
   ![4-550x550](https://github.com/user-attachments/assets/72add62d-3f78-4788-a811-b60b9dbcb9db)
   
-- Dual High Power Metal Motor
+- High Power Metal Motor
   
   ![37mm-motor-with-gear-reduction](https://github.com/user-attachments/assets/9908b2ac-a674-4da1-8981-bcae9a912c33)
 
