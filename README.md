@@ -115,25 +115,24 @@ Our robot uses computer vision to detect red and green signs:
 The robot adjusts its path in real-time based on color signals detected via its onboard camera system.
 
 ---
-
 ## 📦 Project Structure
 
+```bash
 Astralisfr/
-├── 3d/ # 3D model showcase and HTML page
-│ ├── 3dmodelshowcase.gif
-│ ├── model_showcase.html
-│ └── README.md
-├── resources/ # Static resources and media
-│ ├── preview.png
-│ └── medila/
-│ ├── showcase.gif
-│ └── showcase.mp4
-├── src/ # Code and development notebooks
-│ └── code.ipynb
-├── .git/ # Git internals (hidden in repo view)
-├── README.md # Main README (you’re reading it!)
-
-
+├── 3d/                     # 3D model showcase and HTML page
+│   ├── 3dmodelshowcase.gif
+│   ├── model_showcase.html
+│   └── README.md
+├── resources/              # Static resources and media
+│   ├── preview.png
+│   └── medila/
+│       ├── showcase.gif
+│       └── showcase.mp4
+├── src/                    # Code and development notebooks
+│   └── code.ipynb
+├── .git/                   # Git internals (hidden in repo view)
+├── README.md               # Main README (you’re reading it!)
+```
 ---
 
 ## 🦅 Showcase
