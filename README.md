@@ -1,13 +1,13 @@
-WRO 2025 FUTURE ENGINEERS - Astralis
-# Astralis
-Github for WRO.
+# 🚀 Astralis
+
 Welcome to the official repository of **Team Astralis**, participants in the World Robot Olympiad (WRO) 2025 under the Future Engineers category.
-Here you'll find the full development journey of our autonomous robot — from initial concepts to final deployment. This includes technical schematics, code,
-component details, and documentation of the engineering process behind our robot.
+
+Here you'll find the full development journey of our autonomous robot — from initial concepts to final deployment. This includes technical schematics, code, component details, and documentation of the engineering process behind our robot.
 
 ---
 
 ## 📚 Table of Contents
+
 - 👥 Meet the Team  
 - 🎯 About the Challenge  
 - 🤖 Robot Overview  
@@ -16,84 +16,69 @@ component details, and documentation of the engineering process behind our robot
 - 🛠️ Sensors & Power System  
 - 💰 Budget Overview  
 - 🛑 Obstacle Detection Strategy  
-- 📦 Project Structure
-- 🦅 Showcase
-- 🙏 How to Build it for Yourself
+- 📦 Project Structure  
+- 🦅 Showcase  
+- 🙏 How to Build it for Yourself  
+
 ---
-👥 Meet the Team
+
+## 👥 Meet the Team
 
 **Robert Măntălau**  
-Age: 14 
-School:
-Hello! I'm Robert from Romania,and this is my second WRO season in which i am competing. I have previously competed in Future Inoovators. I have a passion about making robots and programming.
-![WhatsApp Image 2025-05-31 at 19 30 35_a4d4b29c](https://github.com/user-attachments/assets/242c249c-581c-4a54-8377-0ed21059be7d)
+Age: 14  
+School:  
+Hello! I'm Robert from Romania, and this is my second WRO season. I previously competed in Future Innovators. I'm passionate about building robots and programming.  
+![Robert](https://github.com/user-attachments/assets/242c249c-581c-4a54-8377-0ed21059be7d)
 
-**Dumitru Maximilian**
-Age: 14
-School:"Decebal" Theoretical School, Constanţa.
-Hi! I am Maximilian from Romania, and this is my second season i am compeating in, previously competing in Future Innovators.
-I have competed in many other competitons such as this one. I am passionate about Robotics and electronics.
-![WhatsApp Image 2025-05-31 at 19 30 55_3c32aff5](https://github.com/user-attachments/assets/1f422bd9-9257-4ad6-86b1-da500ac2f081)
-
+**Dumitru Maximilian**  
+Age: 14  
+School: "Decebal" Theoretical School, Constanţa  
+Hi! I'm Maximilian from Romania, and this is my second WRO season. I previously competed in Future Innovators and have taken part in many similar competitions. I’m passionate about robotics and electronics.  
+![Maximilian](https://github.com/user-attachments/assets/1f422bd9-9257-4ad6-86b1-da500ac2f081)
 
 **Edi Haivas**  
 Age: 14  
-School:
-Hi! My name is Edi from Romania, and this is my second WRO season, previously participating the Future Innovators Category.
-Iam passionate about Robotics, Coding, and Technology.
-![WhatsApp Image 2025-05-31 at 19 31 07_f8582e12](https://github.com/user-attachments/assets/d40bfefe-6c6a-4065-89cb-2d61a35c7454)
-
-
-We are a team of young robotics enthusiasts with a passion for engineering, coding, and autonomous systems. This is our WRO 2025 project,
-and we're excited to showcase our work in the Future Engineers category.
+School:  
+Hi! My name is Edi. I'm from Romania, and this is my second WRO season. I previously participated in the Future Innovators category. I'm passionate about robotics, coding, and technology.  
+![Edi](https://github.com/user-attachments/assets/d40bfefe-6c6a-4065-89cb-2d61a35c7454)
 
 ---
+
 ## 🎯 Challenge Overview
 
 The WRO 2025 Future Engineers challenge requires us to develop an autonomous vehicle capable of navigating a dynamic, randomized racetrack using sensors and intelligent control systems. Our robot must:
 
-- Complete multiple laps while detecting and responding to traffic signs.
-- Perform a precise parallel parking maneuver at the end.
+- Complete multiple laps while detecting and responding to traffic signs  
+- Perform a precise parallel parking maneuver at the end
 
 ---
-## ⚙️ Components
 
-- Dual-Mode Wireless NIC
-  
-  ![wireless-ac8265-1](https://github.com/user-attachments/assets/e4c7223c-9c9f-4dcb-8ea8-81261553a3ee)
-  
-- Metal Gear Steering Servo
+## ⚙️ Hardware Components
 
-  ![4-550x550](https://github.com/user-attachments/assets/72add62d-3f78-4788-a811-b60b9dbcb9db)
-  
-- High Power Metal Motor
-  
-  ![37mm-motor-with-gear-reduction](https://github.com/user-attachments/assets/9908b2ac-a674-4da1-8981-bcae9a912c33)
+- Dual-Mode Wireless NIC  
+  ![NIC](https://github.com/user-attachments/assets/e4c7223c-9c9f-4dcb-8ea8-81261553a3ee)
 
+- Metal Gear Steering Servo  
+  ![Servo](https://github.com/user-attachments/assets/72add62d-3f78-4788-a811-b60b9dbcb9db)
 
-- Battery holder
+- High Power Metal Motor  
+  ![Motor](https://github.com/user-attachments/assets/9908b2ac-a674-4da1-8981-bcae9a912c33)
 
-![PH9274_3-x-aa-side-by-side-flat-battery-holder_89828](https://github.com/user-attachments/assets/94bf3fb5-b9ff-4697-b42e-3f6cc5349dfa)
+- Battery Holder  
+  ![Battery](https://github.com/user-attachments/assets/94bf3fb5-b9ff-4697-b42e-3f6cc5349dfa)
 
-  
-- Sony IMX219 Sensor
+- Sony IMX219 Sensor  
+  ![Sensor](https://github.com/user-attachments/assets/f48b255c-7672-40d9-b5ab-0acbf9377cfb)
 
-  ![images (1)](https://github.com/user-attachments/assets/f48b255c-7672-40d9-b5ab-0acbf9377cfb)
+- High Quality Non-Skid Tire  
+  ![Tire](https://github.com/user-attachments/assets/9affc216-47e9-4679-b25b-b531a57a7081)
 
-  
-- High Quality Non-Skid Tire
-
-  ![images (2)](https://github.com/user-attachments/assets/9affc216-47e9-4679-b25b-b531a57a7081)
-
-  
-- NVIDIA Jetson Nano
-
-  ![images (3)](https://github.com/user-attachments/assets/f4f76555-1cd6-4bf2-8487-6e0c5d0eab65)
-
-
+- NVIDIA Jetson Nano  
+  ![Jetson Nano](https://github.com/user-attachments/assets/f4f76555-1cd6-4bf2-8487-6e0c5d0eab65)
 
 ---
-## 🔧 Assembly Process
+
+## 🔧 Build and Assembly
 
 This section will detail our robot's mechanical assembly steps, including:
 
@@ -103,44 +88,71 @@ This section will detail our robot's mechanical assembly steps, including:
 - Power distribution setup
 
 ---
+
 ## 💰 Budget Overview
 
-We’ve documented all hardware costs to ensure transparency and reproducibility. The breakdown includes electronics, structural parts, and 3D printing material.
-
-| Component                       | Estimated Price (USD) | Notes                                              |
-|--------------------------------|----------------------|----------------------------------------------------|
-| Jetson Nano Developer Kit       | $89.00               | Entry-level AI computing platform                   |
-| 8MP IMX219 Camera Module        | $21.20               | Compatible with Jetson Nano for vision tasks        |
-| High Quality Non-Skid Tire      | $5.00                | Durable tires suitable for racing                    |
-| Metal Gear Steering Servo       | $10.00               | Precision steering control                            |
-| Dual High Power Metal Motor     | $15.00               | Provides necessary torque for movement               |
-| Battery Holder                 | $3.00                | Holds the power source securely                       |
-| Dual-Mode Wireless NIC          | $10.00               | Enables wireless communication                        |
-| Miscellaneous Components        | $20.00               | Includes wires, connectors, and other small parts   |
-| **Total Estimated Cost**        | **$173.20**          |                                                    |
+| Component                     | Estimated Price (USD) | Notes                                           |
+|------------------------------|------------------------|-------------------------------------------------|
+| Jetson Nano Developer Kit    | $89.00                 | Entry-level AI computing platform               |
+| 8MP IMX219 Camera Module     | $21.20                 | For computer vision                             |
+| High Quality Non-Skid Tire   | $5.00                  | Durable racing tires                            |
+| Metal Gear Steering Servo    | $10.00                 | For accurate steering                           |
+| Dual High Power Metal Motor  | $15.00                 | Torque for movement                             |
+| Battery Holder               | $3.00                  | Secure battery mounting                         |
+| Dual-Mode Wireless NIC       | $10.00                 | Wireless communications                         |
+| Miscellaneous Components     | $20.00                 | Wires, connectors, screws, etc.                 |
+| **Total Estimated Cost**     | **$173.20**            |                                                 |
 
 ---
+
 ## 🛑 Obstacle Management
 
 Our robot uses computer vision to detect red and green signs:
 
-- 🟥 Red: Stay on the right
-- 🟩 Green: Stay on the left
+- 🟥 **Red** → Stay on the **right**  
+- 🟩 **Green** → Stay on the **left**
 
-The logic adjusts the robot’s path in real time based on the color signals detected via camera input.
+The robot adjusts its path in real-time based on color signals detected via its onboard camera system.
+
 ---
+
 ## 📦 Project Structure
 
+Astralisfr/
+├── 3d/ # 3D model showcase and HTML page
+│ ├── 3dmodelshowcase.gif
+│ ├── model_showcase.html
+│ └── README.md
+├── resources/ # Static resources and media
+│ ├── preview.png
+│ └── medila/
+│ ├── showcase.gif
+│ └── showcase.mp4
+├── src/ # Code and development notebooks
+│ └── code.ipynb
+├── .git/ # Git internals (hidden in repo view)
+├── README.md # Main README (you’re reading it!)
 
 
-## How to Build it for Yourself
-Simply go into **[src/code.ipynb](src/code.ipynb)** then upload it to your jetson's jupyter lab and follow the instructions inside of each cell. 
+---
 
-## Model Used
-![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)
-[![JetRacer AI Robot Car Kit](https://sketchfab.com/static/thumbnail.png)](https://sketchfab.com/3d-models/jetracer-ai-robot-car-kit-for-nvidia-jetson-a6e25e470de1425281f17aba1a721f7d)
+## 🦅 Showcase
 
-# Showcase
 Watch our robot in action:  
-**[resources/media/showcase.mp4](resources/medila/showcase.mp4)**
-![showcase](resources/medila/showcase.gif)
+**[resources/medila/showcase.mp4](resources/medila/showcase.mp4)**  
+![Robot Showcase](resources/medila/showcase.gif)
+
+---
+
+## 🧠 Model Used
+
+![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)  
+[🔗 JetRacer AI Robot Kit on Sketchfab](https://sketchfab.com/3d-models/jetracer-ai-robot-car-kit-for-nvidia-jetson-a6e25e470de1425281f17aba1a721f7d)
+
+---
+
+## 🙏 How to Build it for Yourself
+
+Simply open **[src/code.ipynb](src/code.ipynb)** on your Jetson Nano via JupyterLab and follow the instructions inside each cell.
+
+---
