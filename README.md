@@ -97,7 +97,7 @@ This section will detail our robot's mechanical assembly steps, including:
 | 8MP IMX219 Camera Module     | $21.20                 | For computer vision                             |
 | High Quality Non-Skid Tire   | $5.00                  | Durable racing tires                            |
 | Metal Gear Steering Servo    | $10.00                 | For accurate steering                           |
-| Dual High Power Metal Motor  | $15.00                 | Torque for movement                             |
+| High Power Metal Motor       | $15.00                 | Torque for movement                             |
 | Battery Holder               | $3.00                  | Secure battery mounting                         |
 | Dual-Mode Wireless NIC       | $10.00                 | Wireless communications                         |
 | Miscellaneous Components     | $20.00                 | Wires, connectors, screws, etc.                 |
