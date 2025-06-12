@@ -143,3 +143,4 @@ Simply go into **[src/code.ipynb](src/code.ipynb)** then upload it to your jetso
 # Showcase
 Watch our robot in action:  
 **[resources/media/showcase.mp4](resources/medila/showcase.mp4)**
+![showcase](resources/medila/showcase.gif)
