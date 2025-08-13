@@ -26,20 +26,22 @@ Here you'll find the full development journey of our autonomous robot — from i
 
 **Robert Măntălau**  
 Age: 14  
-School:  
-Hello! I'm Robert from Romania, and this is my second WRO season. I previously competed in Future Innovators. I'm passionate about building robots and programming.  
+School: Theoretical Highschool "Ovidius"
+Hello! I'm Robert from Romania, and this is my second WRO season. I previously competed in Future Innovators. I'm passionate about building robots and programming. 
+This is my first time participating in the second WRO season.
 ![Robert](https://github.com/user-attachments/assets/242c249c-581c-4a54-8377-0ed21059be7d)
 
 **Dumitru Maximilian**  
 Age: 14  
 School: "Decebal" Theoretical School, Constanţa  
-Hi! I'm Maximilian from Romania, and this is my second WRO season. I previously competed in Future Innovators and have taken part in many similar competitions. I’m passionate about robotics and electronics.  
+Hi! I'm Maximilian from Romania, and this is my second WRO season. I previously competed in Future Innovators and have taken part in many similar competitions. I’m passionate about robotics and electronics.  This is my first time participating i  the second phase of WRO.
 ![Maximilian](https://github.com/user-attachments/assets/1f422bd9-9257-4ad6-86b1-da500ac2f081)
 
 **Edi Haivas**  
 Age: 14  
-School:  
-Hi! My name is Edi. I'm from Romania, and this is my second WRO season. I previously participated in the Future Innovators category. I'm passionate about robotics, coding, and technology.  
+School: ICHC
+Hi! My name is Edi. I'm from Romania, and this is my second WRO season. I previously participated in the Future Innovators category. I'm passionate about robotics, coding, and technology. 
+This is my first time participating in the second phase of WRO.
 ![Edi](https://github.com/user-attachments/assets/d40bfefe-6c6a-4065-89cb-2d61a35c7454)
 
 ---
@@ -55,26 +57,35 @@ The WRO 2025 Future Engineers challenge requires us to develop an autonomous veh
 
 ## ⚙️ Hardware Components
 
-- Dual-Mode Wireless NIC  
-  ![NIC](https://github.com/user-attachments/assets/e4c7223c-9c9f-4dcb-8ea8-81261553a3ee)
+-   Open MV H7 Camera
+  ![417EAJ1fqcL jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_](https://github.com/user-attachments/assets/aef0fb11-0d3e-48e7-a669-152e25fceb5a)
 
-- Metal Gear Steering Servo  
-  ![Servo](https://github.com/user-attachments/assets/72add62d-3f78-4788-a811-b60b9dbcb9db)
+- 30:1 gear motor 
+  ![638130__54581](https://github.com/user-attachments/assets/bfb9bd4d-ed6f-46a7-b8f3-3c136bf82111)
 
-- High Power Metal Motor  
-  ![Motor](https://github.com/user-attachments/assets/9908b2ac-a674-4da1-8981-bcae9a912c33)
+- Arduino Nano ESP32 
+  <img width="1000" height="1000" alt="bitmi-placa-de-dezvoltare-arduino-nano-esp32-programare-arduino-si-micropython-p3-555280" src="https://github.com/user-attachments/assets/bd48b85a-4561-44b4-ad1f-0d459dd1baae" />
 
 - Battery Holder  
-  ![Battery](https://github.com/user-attachments/assets/94bf3fb5-b9ff-4697-b42e-3f6cc5349dfa)
+  ![71xTnwH0-dL _AC_SY200_QL15_](https://github.com/user-attachments/assets/35cdfa4f-e872-4d71-9146-b39d793efe16)
 
-- Sony IMX219 Sensor  
-  ![Sensor](https://github.com/user-attachments/assets/f48b255c-7672-40d9-b5ab-0acbf9377cfb)
+- hw123 IT6/MPU Sensor
+  
+  ![61Xr7VGOl1L _UF350,350_QL80_](https://github.com/user-attachments/assets/26a4aa5f-e899-4bac-bab0-1c515c43623c)
 
-- High Quality Non-Skid Tire  
+- High Quality Non-Skid Tire
+  
   ![Tire](https://github.com/user-attachments/assets/9affc216-47e9-4679-b25b-b531a57a7081)
 
-- NVIDIA Jetson Nano  
-  ![Jetson Nano](https://github.com/user-attachments/assets/f4f76555-1cd6-4bf2-8487-6e0c5d0eab65)
+- Motor Driver L298N
+
+  <img width="200" height="200" alt="resized-web-2d730ee3-ac86-43f0-856b-a11c51a82e91" src="https://github.com/user-attachments/assets/699c269b-483b-48a7-8b32-d0ab0027a5d9" />
+
+- MG90S Servo Motor
+  
+  ![images (2)](https://github.com/user-attachments/assets/1a6e7300-5676-45ac-ba26-54b5a1f03544)
+
+
 
 ---
 
@@ -93,8 +104,8 @@ This section will detail our robot's mechanical assembly steps, including:
 
 | Component                     | Estimated Price (USD) | Notes                                           |
 |------------------------------|------------------------|-------------------------------------------------|
-| Jetson Nano Developer Kit    | $89.00                 | Entry-level AI computing platform               |
-| 8MP IMX219 Camera Module     | $21.20                 | For computer vision                             |
+| Open MV H7 Camera            | $80.00                 | Entry-level AI computing platform               |
+| 30:1 gear motor              | $30.00                 | For computer vision                             |
 | High Quality Non-Skid Tire   | $5.00                  | Durable racing tires                            |
 | Metal Gear Steering Servo    | $10.00                 | For accurate steering                           |
 | High Power Metal Motor       | $15.00                 | Torque for movement                             |
@@ -107,7 +118,7 @@ This section will detail our robot's mechanical assembly steps, including:
 
 ## 🛑 Obstacle Management
 
-Our robot uses computer vision to detect red and green signs:
+Our robot uses a smart camera to detect red and green colours:
 
 - 🟥 **Red** → Stay on the **right**  
 - 🟩 **Green** → Stay on the **left**
@@ -137,21 +148,19 @@ Astralisfr/
 
 ## 🦅 Showcase
 
-Watch our robot in action:  
-**[resources/medila/showcase.mp4](resources/medila/showcase.mp4)**  
-![Robot Showcase](resources/medila/showcase.gif)
+
 
 ---
 
 ## 🧠 Model Used
 
-![JetRacer AI Robot Car](3d/3dmodelshowcase.gif)  
-[🔗 JetRacer AI Robot Kit on Sketchfab](https://sketchfab.com/3d-models/jetracer-ai-robot-car-kit-for-nvidia-jetson-a6e25e470de1425281f17aba1a721f7d)
+
 
 ---
 
 ## 🙏 How to Build it for Yourself
 
-Simply open **[src/code.ipynb](src/code.ipynb)** on your Jetson Nano via JupyterLab and follow the instructions inside each cell.
+
 
 ---
+b             
