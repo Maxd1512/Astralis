@@ -104,15 +104,16 @@ This section will detail our robot's mechanical assembly steps, including:
 
 | Component                     | Estimated Price (USD) | Notes                                           |
 |------------------------------|------------------------|-------------------------------------------------|
-| Open MV H7 Camera            | $80.00                 | Entry-level AI computing platform               |
-| 30:1 gear motor              | $30.00                 | For computer vision                             |
-| High Quality Non-Skid Tire   | $5.00                  | Durable racing tires                            |
-| Metal Gear Steering Servo    | $10.00                 | For accurate steering                           |
-| High Power Metal Motor       | $15.00                 | Torque for movement                             |
+| Open MV H7 Camera            | $80.00                 | Great camera for colour detecting               |
+| 30:1 gear motor              | $30.00                 | Moves the robot                                 |
+| Car Wheel 44mm N20           | $5.00                  | Durable racing tires                            |
+| MG90S Servo Motor            | $4.50                  | For accurate steering                           |
+| Motor Driver L298N           | $3.50                  | Provides signal to the motors                   |
 | Battery Holder               | $3.00                  | Secure battery mounting                         |
-| Dual-Mode Wireless NIC       | $10.00                 | Wireless communications                         |
-| Miscellaneous Components     | $20.00                 | Wires, connectors, screws, etc.                 |
-| **Total Estimated Cost**     | **$173.20**            |                                                 |
+| MPU6050 Gyroscope            | $3.00                  | Know how much the robot has turned              |
+| Miscellaneous Components     | $17.50                 | Wires, connectors, screws, etc.                 |
+| **Total Estimated Cost**     | **$146.5**          
+| Final Price                                     |
 
 ---
 
