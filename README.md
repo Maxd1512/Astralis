@@ -148,20 +148,19 @@ Astralisfr/
 ---
 
 ## 🦅 Showcase
-
+Here is a short video showcasing how the robot works.
 
 
 ---
 
 ## 🧠 Model Used
-
+Here are our 3D models used for this robot.
 
 
 ---
 
 ## 🙏 How to Build it for Yourself
-
-
+Firstly. Take the base and your servo motor, screw the 8 cm bar 
 
 ---
-b             
+          
