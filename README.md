@@ -155,8 +155,12 @@ Here is a short video showcasing how the robot works.
 
 ## 🧠 Model Used
 Here are our 3D models used for this robot.
+Motor.stl
+base.stl
+fabulous hiller.stl
+shiny juttuli.stl
 
-
+All can be located in Resouces/3d
 ---
 
 ## 🙏 How to Build it for Yourself
