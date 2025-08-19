@@ -13,7 +13,6 @@ Here you'll find the full development journey of our autonomous robot — from i
 - 🤖 Robot Overview  
 - ⚙️ Hardware Components  
 - 🔧 Build and Assembly  
-- 🛠️ Sensors & Power System  
 - 💰 Budget Overview  
 - 🛑 Obstacle Detection Strategy  
 - 📦 Project Structure  
@@ -54,6 +53,12 @@ The WRO 2025 Future Engineers challenge requires us to develop an autonomous veh
 - Perform a precise parallel parking maneuver at the end
 
 ---
+
+##🤖 Robot Overview 
+
+Here are photos of the robot from all sides.
+
+
 
 ## ⚙️ Hardware Components
 
