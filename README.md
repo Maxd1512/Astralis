@@ -73,9 +73,10 @@ The WRO 2025 Future Engineers challenge requires us to develop an autonomous veh
   
   ![61Xr7VGOl1L _UF350,350_QL80_](https://github.com/user-attachments/assets/26a4aa5f-e899-4bac-bab0-1c515c43623c)
 
-- High Quality Non-Skid Tire
+- N20 DC gear motor rubber wheel
   
-  ![Tire](https://github.com/user-attachments/assets/9affc216-47e9-4679-b25b-b531a57a7081)
+  ![images (4)](https://github.com/user-attachments/assets/3881784c-dbb8-402e-828c-fa8e7ad07e22)
+
 
 - Motor Driver L298N
 
@@ -148,7 +149,7 @@ Astralisfr/
 ---
 
 ## 🦅 Showcase
-Here is a short video showcasing how the robot works.
+Here is a video showcasing how the robot works.
 
 
 ---
@@ -164,7 +165,9 @@ All can be located in Resouces/3d
 ---
 
 ## 🙏 How to Build it for Yourself
-Firstly. Take the base and your servo motor, screw the 8 cm bar 
+Here are some photos of the robot being built.
+![WhatsApp Image 2025-08-19 at 10 18 41_429075c6](https://github.com/user-attachments/assets/8c142817-e297-4ce3-8d66-a71ac7e6d1f2)
+
 
 ---
           
